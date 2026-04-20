@@ -48,4 +48,4 @@
 ---
 
 ## 📊 GitHub Stats
-![Trophies](https://github-profile-trophy.vercel.app/?username=dina-muravska&theme=tokyonight&no-frame=true&row=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dina-muravska&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
