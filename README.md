@@ -48,4 +48,4 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=dina-muravska&theme=tokyonight&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=dina-muravska&theme=tokyonight&no-frame=true&row=1)
