@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Dina!
 
-## 💫 About Me
-I'm a Junior Full-Stack Developer focused on building modern, scalable web applications and continuously improving my technical skills. I develop multi-page web applications using **TypeScript, React, and Next.js**, create responsive layouts with **SCSS**, and actively deepen my knowledge through daily practice and learning.---
+<p align="center">
+  I'm a Junior Full-Stack Developer focused on building modern, scalable web applications and continuously improving my technical skills. 
+  I develop multi-page web applications using <strong>TypeScript, React, and Next.js</strong>, create responsive layouts with <strong>SCSS</strong>, 
+  and actively deepen my knowledge through daily practice and learning.
+</p>
+
+---
 
 ## 💼 Tech Stack
 
@@ -13,7 +18,7 @@ I'm a Junior Full-Stack Developer focused on building modern, scalable web appli
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -41,8 +46,9 @@ I'm a Junior Full-Stack Developer focused on building modern, scalable web appli
 - 💬 Telegram: @dina_muravska
 
 ---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?dina-muravska&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dina-muravska&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?dina-muravska&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dina-muravska&layout=compact&theme=tokyonight)
