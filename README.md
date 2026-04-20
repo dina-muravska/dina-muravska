@@ -48,7 +48,4 @@
 ---
 ## 📊 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dina-muravska&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dina-muravska&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dina_muravska)](https://github.com/dina_muravska/github-readme-stats)
