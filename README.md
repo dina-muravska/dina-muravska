@@ -46,3 +46,6 @@
 - 💬 Telegram: @dina_muravska
 
 ---
+## 📊  GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dina-muravska)
