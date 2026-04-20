@@ -48,7 +48,4 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dina-muravska&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dina-muravska&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=dina-muravska&theme=tokyonight&hide_border=true)
