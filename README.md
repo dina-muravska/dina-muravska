@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dina!
+# <p align="center">👋 Hi, I'm Dina!</p>
 
 <p align="center">
   I'm a Junior Full-Stack Developer focused on building modern, scalable web applications and continuously improving my technical skills. 
