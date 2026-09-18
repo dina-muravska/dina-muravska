@@ -55,7 +55,7 @@
 ---
 
 ## 📬 Contact Me
-- 💼 LinkedIn: linkedin.com/in/dina-muravska
+- 💼 LinkedIn: https://linkedin.com/in/dina-muravska
 - 📧 Email: dina.muravska.25@gmail.com
 - 💬 Telegram: @dina_muravska
 
